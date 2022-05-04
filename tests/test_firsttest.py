@@ -6,3 +6,6 @@ def test_firsttest():
 
 def test_secondtest():
     assert lamas() == 1357
+
+def test_thirdtest():
+    assert 5 == 7
