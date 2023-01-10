@@ -9,3 +9,6 @@ def test_secondtest():
 
 def test_thirdtest():
     assert 5 == 5
+
+def test_fourthtest():
+    assert 12 ==2 #failing test
