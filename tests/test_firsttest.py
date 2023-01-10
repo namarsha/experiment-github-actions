@@ -12,3 +12,6 @@ def test_thirdtest():
 
 def test_fourthtest():
     assert 12 ==2 #failing test
+
+def test_yet_another_failing_test():
+    assert 0 == 1
